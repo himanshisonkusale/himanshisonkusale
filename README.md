@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Himanshi Sonkusale, a dedicated Computer Science undergraduate at VIT Bhopal University. My passion lies in architecting scalable solutions and exploring the transformative potential of intelligent systems in technology. Currently, my efforts are concentrated on three key domains: Cloud Computing, where I'm learning to deploy and manage scalable infrastructure; AI/ML, focusing on the development of intelligent applications through data and algorithms; and Full Stack Web Development, where I craft dynamic and user-centric web experiences
+I am Himanshi Sonkusale, a dedicated Computer Science undergraduate at VIT Bhopal University. My passion lies in architecting scalable solutions and exploring the transformative potential of intelligent systems in technology. Currently, my efforts are concentrated on three key domains: Cloud Computing, where I'm learning to deploy and manage scalable infrastructure; AI/ML, focusing on the development of intelligent applications through data and algorithms; and Full Stack Web Development, where I craft dynamic and user-centric web experiences.
 
 
 ## 🌐 Socials:
