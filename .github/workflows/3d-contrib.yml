@@ -8,20 +8,13 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
-
-      - name: Create settings file
-        run: |
-          echo '{"githubUserName":"himanshisonkusale","type":"season-animate","topLangType":"normal"}' > settings.json
 
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: himanshisonkusale
-          SETTING_JSON: settings.json
 
       - run: |
           git config user.email "action@github.com"
