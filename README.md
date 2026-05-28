@@ -25,29 +25,25 @@
 <tr>
 <td width="55%" valign="top">
 
-### Hi there! I'm Himanshi 👋
+### Hi, I'm Himanshi Sonkusale 👋
 
-🎓 &nbsp; CS Undergrad @ **VIT Bhopal University**
-<br/>
-🌍 &nbsp; Based in **India**
-<br/>
-💼 &nbsp; **Open to Opportunities**
-<br/>
-🌱 &nbsp; Currently exploring **MLOps & Cloud-AI**
-<br/>
-💬 &nbsp; Ask me about `React` `Python` `AWS` `System Design`
-<br/>
-⚡ &nbsp; Fun fact: I debug with `console.log` and I'm proud of it!
+A passionate **Computer Science undergraduate** at VIT Bhopal University, dedicated to building scalable, intelligent, and user-centric technology solutions.
 
 <br/>
 
-**What I do:**
+🎓 &nbsp; **B.Tech Computer Science** — VIT Bhopal University
+<br/>
+📍 &nbsp; India &nbsp;|&nbsp; 💼 Open to Opportunities
+<br/>
+🌱 &nbsp; Currently deepening expertise in **MLOps & Cloud-AI Integration**
 
-🔹 ☁️ &nbsp; **Cloud** — Scalable infra on AWS & GCP
 <br/>
-🔹 🤖 &nbsp; **AI/ML** — Data-driven intelligent apps
-<br/>
-🔹 🌐 &nbsp; **Full Stack** — Dynamic user-centric UIs
+
+| Domain | Focus |
+|--------|-------|
+| ☁️ **Cloud Computing** | Architecting scalable infrastructure on AWS & GCP |
+| 🤖 **Artificial Intelligence** | Developing data-driven intelligent applications |
+| 🌐 **Full Stack Development** | Crafting seamless, user-centric web experiences |
 
 <br/>
 
@@ -222,13 +218,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=himanshisonkusale&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=himanshisonkusale&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshisonkusale&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshisonkusale&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" />
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=himanshisonkusale&theme=tokyonight&hide_border=true" height="180" />
+<img src="https://streak-stats.demolab.com?user=himanshisonkusale&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
 
 </div>
 
