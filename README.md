@@ -230,7 +230,7 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
 
 ---
 
-## 🐍 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
