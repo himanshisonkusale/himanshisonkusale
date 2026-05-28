@@ -21,31 +21,46 @@
 
 ## 👩‍💻 About Me
 
-<div align="center">
+<table>
+<tr>
+<td width="55%" valign="top">
 
-```javascript
-const himanshi = {
-  name      : "Himanshi Sonkusale",
-  university: "VIT Bhopal University 🎓",
-  degree    : "B.Tech — Computer Science",
-  location  : "India 🇮🇳",
-  status    : "Open to Opportunities 🚀",
+### Hi there! I'm Himanshi 👋
 
-  passions  : ["Cloud Computing ☁️", "AI / ML 🤖", "Full Stack Dev 🌐"],
+🎓 &nbsp; CS Undergrad @ **VIT Bhopal University**
+<br/>
+🌍 &nbsp; Based in **India**
+<br/>
+💼 &nbsp; **Open to Opportunities**
+<br/>
+🌱 &nbsp; Currently exploring **MLOps & Cloud-AI**
+<br/>
+💬 &nbsp; Ask me about `React` `Python` `AWS` `System Design`
+<br/>
+⚡ &nbsp; Fun fact: I debug with `console.log` and I'm proud of it!
 
-  currentlyWorking : [
-    "Exploring MLOps & model deployment",
-    "Building at the intersection of Cloud + AI",
-  ],
+<br/>
 
-  askMeAbout : ["React", "Python", "AWS", "System Design"],
+**What I do:**
 
-  funFact   : "I debug with console.log and I'm proud of it 😄",
-  motto     : "Architect first. Code second. Ship always. 🛠️",
-};
-```
+🔹 ☁️ &nbsp; **Cloud** — Scalable infra on AWS & GCP
+<br/>
+🔹 🤖 &nbsp; **AI/ML** — Data-driven intelligent apps
+<br/>
+🔹 🌐 &nbsp; **Full Stack** — Dynamic user-centric UIs
 
-</div>
+<br/>
+
+> *"Architect first. Code second. Ship always."*
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
