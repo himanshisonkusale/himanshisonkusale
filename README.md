@@ -21,49 +21,31 @@
 
 ## 👩‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<div align="center">
 
-### 🚀 Who Am I?
-Hi! I'm **Himanshi Sonkusale**, a passionate CS undergrad at **VIT Bhopal University** who loves turning ideas into real, working products.
+```javascript
+const himanshi = {
+  name      : "Himanshi Sonkusale",
+  university: "VIT Bhopal University 🎓",
+  degree    : "B.Tech — Computer Science",
+  location  : "India 🇮🇳",
+  status    : "Open to Opportunities 🚀",
 
-I live at the intersection of **Cloud**, **AI/ML**, and **Full Stack Dev** — always exploring, always building.
+  passions  : ["Cloud Computing ☁️", "AI / ML 🤖", "Full Stack Dev 🌐"],
 
-> *"Architect first. Code second. Ship always."*
+  currentlyWorking : [
+    "Exploring MLOps & model deployment",
+    "Building at the intersection of Cloud + AI",
+  ],
 
-    </td>
-    <td valign="top" width="50%">
+  askMeAbout : ["React", "Python", "AWS", "System Design"],
 
-### 📌 Quick Info
-| | |
-|---|---|
-| 🎓 **University** | VIT Bhopal University |
-| 📚 **Degree** | B.Tech — Computer Science |
-| 📍 **Location** | India |
-| 💼 **Status** | Open to Opportunities |
-| 🌱 **Learning** | MLOps & Cloud-AI Integration |
+  funFact   : "I debug with console.log and I'm proud of it 😄",
+  motto     : "Architect first. Code second. Ship always. 🛠️",
+};
+```
 
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/-Cloud%20Computing-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br/>
-      <sub>Deploying scalable infra on AWS & GCP</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/-AI%20%2F%20ML-412991?style=for-the-badge&logo=openai&logoColor=white" /><br/>
-      <sub>Building intelligent data-driven apps</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/-Full%20Stack-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
-      <sub>Crafting dynamic user-centric UIs</sub>
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
