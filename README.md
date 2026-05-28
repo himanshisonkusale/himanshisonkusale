@@ -212,7 +212,8 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/himanshisonkusale/himanshisonkusale/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshisonkusale&theme=tokyonight" height="200"/>&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=himanshisonkusale&theme=tokyonight&utcOffset=5.5" height="180"/>
 
 <br/>
 
