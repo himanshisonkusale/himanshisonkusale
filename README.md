@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=Himanshi%20Sonkusale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Cloud%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=220&section=header&text=Himanshi%20Sonkusale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Cloud%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=dddddd" />
+
+</div>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F953C6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Cloud+Solutions+%E2%98%81%EF%B8%8F;Crafting+Intelligent+AI%2FML+Systems+%F0%9F%A4%96;Architecting+Full+Stack+Experiences+%F0%9F%9A%80;CS+Undergrad+%40+VIT+Bhopal+%F0%9F%8E%93" alt="Typing SVG" />
