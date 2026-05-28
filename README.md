@@ -2,14 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=220&section=header&text=Himanshi%20Sonkusale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Cloud%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=ffffff" />
 
-<br/>
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F953C6&center=true&vCenter=true&random=false&width=650&lines=Building+Scalable+Cloud+Solutions+%E2%98%81%EF%B8%8F;Crafting+Intelligent+AI%2FML+Systems+%F0%9F%A4%96;Architecting+Full+Stack+Experiences+%F0%9F%9A%80;CS+Undergrad+%40+VIT+Bhopal+%F0%9F%8E%93;Architect+First.+Code+Second.+Ship+Always.+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F953C6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Cloud+Solutions+%E2%98%81%EF%B8%8F;Crafting+Intelligent+AI%2FML+Systems+%F0%9F%A4%96;Architecting+Full+Stack+Experiences+%F0%9F%9A%80;CS+Undergrad+%40+VIT+Bhopal+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
-<br/><br/>
-
+<br/>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=himanshisonkusale&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </a>
@@ -63,61 +60,155 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
 
 ---
 
-## 🔭 Currently Building
-
-- 🌩️ **MLOps Pipeline** — Automating model deployment on AWS SageMaker
-- 🧠 **AI-powered SaaS** — Full-stack application with LLM integration
-- 📦 **Open Source** — Contributing to cloud-native tooling & developer tools
-
----
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
-
-<br/><br/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
-
-<br/><br/>
-
-**Backend & Runtimes**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
-
-<br/><br/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
-<br/><br/>
-
-**AI / ML & Data Science**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+**🎨 Frontend**
+
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=router" width="48"/><br/>
+      <sub><b>React Router</b></sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-**Cloud & DevOps & Tools**
+**⚙️ Backend & Runtimes**
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,postman,npm,canva" />
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=express" width="48"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=flask" width="48"/><br/>
+      <sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+**🗄️ Databases**
+
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>
+      <sub><b>Firebase</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+**☁️ Cloud & Big Data**
+
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=aws" width="48"/><br/>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48"/><br/>
+      <sub><b>Google Cloud</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" /><br/>
+      <sub><b>Apache Hadoop</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+**🔧 Tools & DevOps**
+
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=npm" width="48"/><br/>
+      <sub><b>NPM</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=canva" width="48"/><br/>
+      <sub><b>Canva</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -131,13 +222,9 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshisonkusale&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" />
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=himanshisonkusale&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=himanshisonkusale&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
 
@@ -147,7 +234,11 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshisonkusale&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshisonkusale/himanshisonkusale/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshisonkusale/himanshisonkusale/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/himanshisonkusale/himanshisonkusale/output/github-snake.svg" />
+</picture>
 
 </div>
 
