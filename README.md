@@ -212,16 +212,19 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=himanshisonkusale&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180" />
+<img src="https://raw.githubusercontent.com/himanshisonkusale/himanshisonkusale/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D Contribution Graph"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshisonkusale&theme=tokyonight" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshisonkusale&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=himanshisonkusale&theme=tokyonight" height="180"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=himanshisonkusale&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180" />
 
 </div>
-
 ---
 
 ## 📈 Contribution Activity
