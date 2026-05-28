@@ -233,8 +233,8 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
       <sub><b>NPM</b></sub>
     </td>
     <td align="center" width="130px">
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48"/><br/>
-  <sub><b>Canva</b></sub>
+  <img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>
+  <sub><b>Figma</b></sub>
 </td>
   </tr>
 </table>
