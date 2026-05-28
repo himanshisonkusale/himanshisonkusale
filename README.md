@@ -101,10 +101,10 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>
       <sub><b>Bootstrap</b></sub>
     </td>
-    <td align="center" width="130px">
-      <img src="https://skillicons.dev/icons?i=reactrouter" width="48"/><br/>
-      <sub><b>React Router</b></sub>
-    </td>
+   <td align="center" width="130px">
+  <img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="48"/><br/>
+  <sub><b>React Router</b></sub>
+</td>
   </tr>
 </table>
 
@@ -168,16 +168,51 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
       <img src="https://skillicons.dev/icons?i=gcp" width="48"/><br/>
       <sub><b>Google Cloud</b></sub>
     </td>
-    <td align="center" width="130px">
-      <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" /><br/>
-      <sub><b>Apache Hadoop</b></sub>
-    </td>
+   <td align="center" width="130px">
+  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="48"/><br/>
+  <sub><b>Apache Hadoop</b></sub>
+</td>
   </tr>
 </table>
 
 <br/>
 
-**🔧 Tools & DevOps**
+**🤖 AI / ML**
+
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48"/><br/>
+      <sub><b>HuggingFace</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48"/><br/>
+      <sub><b>Scikit-Learn</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://cdn.simpleicons.org/pandas/150458" width="48"/><br/>
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://cdn.simpleicons.org/numpy/013243" width="48"/><br/>
+      <sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="130px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48"/><br/>
+  <sub><b>Matplotlib</b></sub>
+</td>
+<td align="center" width="130px">
+  <img src="https://cdn.simpleicons.org/langchain/7B2FF7" width="48"/><br/>
+  <sub><b>Agentic AI</b></sub>
+</td>
+  </tr>
+</table>
+
+**🔧 Tools**
 
 <table>
   <tr>
@@ -198,9 +233,9 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
       <sub><b>NPM</b></sub>
     </td>
     <td align="center" width="130px">
-      <img src="https://skillicons.dev/icons?i=canva" width="48"/><br/>
-      <sub><b>Canva</b></sub>
-    </td>
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48"/><br/>
+  <sub><b>Canva</b></sub>
+</td>
   </tr>
 </table>
 
