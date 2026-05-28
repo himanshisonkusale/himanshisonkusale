@@ -5,15 +5,11 @@
 </a>
 
 <br/>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=himanshisonkusale&label=Profile%20Views&color=6&icon=5&pretty=true" />
-</a>
+<img src="https://img.shields.io/badge/%20Problem%20Solver-DSA%20%7C%20Algorithms-7B2FF7?style=flat-square" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20AI%2FML%20%7C%20Full%20Stack-e91e8c?style=flat-square" />
 &nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-4776e6?style=flat-square&logo=rocket&logoColor=white" />
-
-</div>
 
 ---
 
@@ -257,7 +253,8 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F953C6,50:7B2FF7,100:4776E6&height=120&section=footer" />
+
 
 *"The best way to predict the future is to build it."*
 
