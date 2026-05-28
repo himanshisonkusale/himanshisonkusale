@@ -1,28 +1,30 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Himanshi%20Sonkusale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Cloud%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f953c6,50:b91d73,100:4776e6&height=220&section=header&text=Himanshi%20Sonkusale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Cloud%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=ffe0f7" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Cloud+Solutions+%E2%98%81%EF%B8%8F;Crafting+Intelligent+AI%2FML+Systems+%F0%9F%A4%96;Architecting+Full+Stack+Experiences+%F0%9F%9A%80;CS+Undergrad+%40+VIT+Bhopal+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F953C6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Cloud+Solutions+%E2%98%81%EF%B8%8F;Crafting+Intelligent+AI%2FML+Systems+%F0%9F%A4%96;Architecting+Full+Stack+Experiences+%F0%9F%9A%80;CS+Undergrad+%40+VIT+Bhopal+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
-<!-- Profile Views & Social Badges -->
+<!-- Profile Views & Badges -->
 <br/>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=himanshisonkusale&label=Profile%20Views&color=9&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=himanshisonkusale&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20AI%2FML%20%7C%20Full%20Stack-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20AI%2FML%20%7C%20Full%20Stack-e91e8c?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/VIT%20Bhopal-Computer%20Science-6d28d9?style=flat-square&logo=graduation-cap&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-4776e6?style=flat-square&logo=rocket&logoColor=white" />
 
 </div>
 
 ---
 
 ## 🧬 About Me
+
+<img align="right" width="300" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e737175617265737061636563646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623031622f313534313538303631313632342d5448554e4149574a574e5246584f445741592f6b6579626f6172642d636174732e706e673f666f726d61743d31303030772" />
 
 ```yaml
 name        : Himanshi Sonkusale
@@ -31,7 +33,7 @@ degree      : B.Tech — Computer Science
 status      : Undergraduate (Active)
 
 focus_areas :
-  - ☁️  Cloud Computing    → Scalable infrastructure on AWS & GCP
+  - ☁️  Cloud Computing    → AWS & GCP scalable infrastructure
   - 🤖  AI / ML            → Intelligent apps via data & algorithms
   - 🌐  Full Stack Dev      → Dynamic, user-centric web experiences
 
@@ -41,6 +43,8 @@ currently   :
 
 philosophy  : "Architect first. Code second. Ship always."
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -118,16 +122,6 @@ philosophy  : "Architect first. Code second. Ship always."
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=himanshisonkusale&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7)
-
-</div>
-
----
-
 ## 🐍 Contribution Activity
 
 <div align="center">
@@ -144,7 +138,7 @@ philosophy  : "Architect first. Code second. Ship always."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4776e6,50:b91d73,100:f953c6&height=120&section=footer" />
 
 *"The best way to predict the future is to build it."*
 
