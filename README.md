@@ -244,15 +244,18 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
 ---
 
 
+
 ## 📊 GitHub Insights
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=himanshisonkusale&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=himanshisonkusale&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshisonkusale&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=himanshisonkusale&theme=tokyonight&hide_border=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshisonkusale&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshisonkusale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 </div>
 ```
