@@ -243,7 +243,7 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
 
 ---
 
-```md
+
 ## 📊 GitHub Insights
 
 <div align="center">
