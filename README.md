@@ -245,17 +245,91 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
 
 
 
-## 📊 GitHub Insights
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=himanshisonkusale&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://streak-stats.demolab.com?user=himanshisonkusale&theme=tokyonight&hide_border=true" height="180"/>
+### 🎤 AI Interview Platform
 
-<br/>
+AI-powered interview preparation platform that conducts mock interviews, evaluates responses, and provides personalized feedback.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshisonkusale&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+**Tech Stack**
+
+`React` `Node.js` `Gemini API` `MongoDB`
+
+✨ AI Evaluation  
+✨ Real-time Feedback  
+✨ Performance Analytics
+
+🔗 Repository
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 Multi-Agent Research Assistant
+
+An intelligent Agentic AI system capable of research, reasoning, and task execution using multiple specialized agents.
+
+**Tech Stack**
+
+`LangGraph` `LangChain` `Python` `LLMs`
+
+✨ Multi-Agent Architecture  
+✨ Autonomous Workflows  
+✨ Research Automation
+
+🔗 Repository
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📄 AI Resume Analyzer
+
+Smart resume analysis platform that compares resumes against job descriptions and generates improvement suggestions.
+
+**Tech Stack**
+
+`Python` `Streamlit` `Gemini API`
+
+✨ ATS Compatibility Check  
+✨ Skill Gap Detection  
+✨ Resume Enhancement
+
+🔗 Repository
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud-Native Application
+
+Scalable cloud-deployed application demonstrating modern DevOps and cloud engineering practices.
+
+**Tech Stack**
+
+`AWS` `Docker` `CI/CD` `Node.js`
+
+✨ Automated Deployment  
+✨ Cloud Infrastructure  
+✨ Production Ready
+
+🔗 Repository
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 ```
