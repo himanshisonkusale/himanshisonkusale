@@ -242,6 +242,14 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
 </div>
 
 ```
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=himanshisonkusale&theme=dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshisonkusale&theme=dark" width="48%"/>
+</p>
+
+```
 
 ## 📈 Contribution Activity
 
