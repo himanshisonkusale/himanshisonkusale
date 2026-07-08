@@ -251,19 +251,15 @@ A passionate **Computer Science undergraduate** at VIT Bhopal University, dedica
 </p>
 
 
+---
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshisonkusale/himanshisonkusale/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshisonkusale/himanshisonkusale/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/himanshisonkusale/himanshisonkusale/output/github-snake.svg" />
-</picture>
+[![Himanshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshisonkusale&theme=tokyo-night&hide_border=true&area=true)](https://github.com/himanshisonkusale)
 
 </div>
-
 ---
 
 ## 🌐 Connect With Me
