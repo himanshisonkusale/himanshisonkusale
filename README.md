@@ -1,157 +1,283 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Himanshi%20Sonkusale&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Cloud%20%26%20Distributed%20Systems%20%7C%20AI%2FML&descAlignY=55&descSize=17&descColor=e0e0e0" width="100%"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F953C6,50:7B2FF7,100:4776E6&height=220&section=header&text=Himanshi%20Sonkusale&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Cloud%20%7C%20AI%2FML%20%7C%20Full%20Stack&descAlignY=58&descSize=18&descColor=ffffff" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=2C5364&center=true&vCenter=true&random=false&width=650&lines=Building+distributed+systems+that+scale;Shipping+production-grade+backend+architecture;Exploring+RAG%2C+LLMs+%26+Agentic+AI;CS+Undergrad+%40+VIT+Bhopal+(CGPA+9.07)" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F953C6&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Cloud+Solutions+%E2%98%81%EF%B8%8F;Crafting+Intelligent+AI%2FML+Systems+%F0%9F%A4%96;Architecting+Full+Stack+Experiences+%F0%9F%9A%80;CS+Undergrad+%40+VIT+Bhopal+%F0%9F%8E%93" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
+<img src="https://img.shields.io/badge/%20Problem%20Solver-DSA%20%7C%20Algorithms-7B2FF7?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-Cloud%20%7C%20AI%2FML%20%7C%20Full%20Stack-e91e8c?style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-4776e6?style=flat-square&logo=rocket&logoColor=white" />
 
-<img src="https://img.shields.io/badge/National%20Winner-AiroThon%202025-2C5364?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Amazon%20ML%20Summer%20School-Top%202%25-203A43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Opportunities-0F2027?style=for-the-badge&logo=rocket&logoColor=white"/>
+---
 
-<p>
-  <a href="mailto:himanshi.sonkusale05@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/himanshi-sonkusale"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/himanshisonkusale"><img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white"/></a>
+## 👩‍💻 About Me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Hi, I'm Himanshi Sonkusale 👋
+
+A passionate **Computer Science undergraduate** at VIT Bhopal University, dedicated to building scalable, intelligent, and user-centric technology solutions.
+
+<br/>
+
+🎓 &nbsp; **B.Tech Computer Science** — VIT Bhopal University
+<br/>
+📍 &nbsp; India &nbsp;|&nbsp; 💼 Open to Opportunities
+<br/>
+🌱 &nbsp; Currently deepening expertise in **MLOps & Cloud-AI Integration**
+
+<br/>
+
+| Domain | Focus |
+|--------|-------|
+| ☁️ **Cloud Computing** | Architecting scalable infrastructure on AWS & GCP |
+| 🤖 **Artificial Intelligence** | Developing data-driven intelligent applications |
+| 🌐 **Full Stack Development** | Crafting seamless, user-centric web experiences |
+
+<br/>
+
+> *"Architect first. Code second. Ship always."*
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="100%" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=python" width="48"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=js" width="48"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+**🎨 Frontend**
+
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>
+      <sub><b>Bootstrap</b></sub>
+    </td>
+   <td align="center" width="130px">
+  <img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="48"/><br/>
+  <sub><b>React Router</b></sub>
+</td>
+  </tr>
+</table>
+
+<br/>
+
+**⚙️ Backend & Runtimes**
+
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>
+      <sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=express" width="48"/><br/>
+      <sub><b>Express.js</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=flask" width="48"/><br/>
+      <sub><b>Flask</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+**🗄️ Databases**
+
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48"/><br/>
+      <sub><b>Firebase</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+**☁️ Cloud & Big Data**
+
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=aws" width="48"/><br/>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48"/><br/>
+      <sub><b>Google Cloud</b></sub>
+    </td>
+   <td align="center" width="130px">
+  <img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="48"/><br/>
+  <sub><b>Apache Hadoop</b></sub>
+</td>
+  </tr>
+</table>
+
+<br/>
+
+**🤖 AI / ML**
+
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48"/><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48"/><br/>
+      <sub><b>HuggingFace</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="48"/><br/>
+      <sub><b>Scikit-Learn</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://cdn.simpleicons.org/pandas/150458" width="48"/><br/>
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://cdn.simpleicons.org/numpy/013243" width="48"/><br/>
+      <sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="130px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="48"/><br/>
+  <sub><b>Matplotlib</b></sub>
+</td>
+<td align="center" width="130px">
+  <img src="https://cdn.simpleicons.org/langchain/7B2FF7" width="48"/><br/>
+  <sub><b>Agentic AI</b></sub>
+</td>
+  </tr>
+</table>
+
+**🔧 Tools**
+
+<table>
+  <tr>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=postman" width="48"/><br/>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="130px">
+      <img src="https://skillicons.dev/icons?i=npm" width="48"/><br/>
+      <sub><b>NPM</b></sub>
+    </td>
+    <td align="center" width="130px">
+  <img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>
+  <sub><b>Figma</b></sub>
+</td>
+  </tr>
+</table>
+
+</div>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=himanshisonkusale&theme=tokyonight" width="42%"/>
 </p>
 
-</div>
 
 ---
 
-### 👋 About Me
-
-I'm a Computer Science undergraduate at **VIT Bhopal** (Cloud Computing & Automation), building systems that live at the intersection of **distributed backend architecture**, **cloud infrastructure**, and **AI/ML**. I care about things that hold up under real load — rate limiters, job schedulers, and editors that actually survive concurrent writes.
-
-- 🔭 Currently building distributed, fault-tolerant backend systems (queues, schedulers, real-time infra)
-- 🧠 Researching sensor-edge computing at **IIT Indore** and computer vision safety systems at **IIT Bhilai**
-- 🏆 National Winner, **AiroThon 2025** (1st of 231 teams) — Agentic AI Hackathon by Airolabs.ai
-- 🎯 Solved 500+ DSA problems across competitive programming platforms
-- 📫 Reach me at **himanshi.sonkusale05@gmail.com**
-
----
-
-### 🧰 Tech Stack
+## 📈 Contribution Graph
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" height="42"/>
-
-**Backend & Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,redis,docker,nginx,postgres,mongodb" height="42"/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="42"/>
-
-**Cloud, Monitoring & AI/ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,grafana,prometheus,pytorch,git,github" height="42"/>
+[![Himanshi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshisonkusale&theme=tokyo-night&hide_border=true&area=true)](https://github.com/himanshisonkusale)
 
 </div>
-
 ---
 
-### 💼 Experience
-
-<table>
-<tr>
-<td width="18%"><b>Dec 2025 – Apr 2026</b></td>
-<td width="82%">
-<b>Research Intern, Sensor-Edge Computing</b> — IIT Indore <i>(Prof. Ayan Mondal)</i><br/>
-Built Python simulations comparing WSN, Sensor-Cloud, and Sensor-Edge architectures — reaching <b>18.7% lower energy use</b>, <b>21.1% longer network lifetime</b>, and <b>27.3% higher profit</b> on the Edge model.
-</td>
-</tr>
-<tr>
-<td><b>Nov 2025 – Feb 2026</b></td>
-<td>
-<b>Project Intern, Industrial Safety & Action Recognition</b> — IIT Bhilai <i>(Prof. Gagan Raj Gupta)</i><br/>
-Built CNN-LSTM computer vision pipelines (OpenCV + PyTorch) for real-time unsafe-action detection from video streams.
-</td>
-</tr>
-</table>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**⚡ NexusFlowController**
-<br/><sub>Node.js · Redis · Nginx · Docker · Prometheus · Grafana · k6</sub>
-
-Distributed rate-limiting system with JWT auth and Redis Lua scripts, plus a circuit breaker for fault tolerance. Load-tested to **471+ req/sec at 11.6ms latency** — 3× the baseline throughput — deployed across a 3-node cluster.
-
-</td>
-<td width="50%" valign="top">
-
-**🗂️ Distributed Job Scheduler**
-<br/><sub>Node.js · Express · Redis · Docker · Prometheus · Grafana</sub>
-
-Fault-tolerant task orchestrator with DAG-based scheduling, AI-assisted prioritization, and 3 parallel workers. Retry logic with exponential backoff and a Dead Letter Queue, wired into CI/CD via GitHub Actions.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 RAG Bug-Fix System**
-<br/><sub>Node.js · RAG · Groq · Pinecone · Redis · GitHub API</sub>
-
-Automated bug-fix pipeline with Analyzer / Fixer / Reviewer agents. Pinecone-based semantic retrieval, BullMQ-backed job persistence, confidence scoring before auto-PR creation, and real-time Slack notifications.
-
-</td>
-<td width="50%" valign="top">
-
-**✍️ Real-Time Collaborative Editor**
-<br/><sub>React · Node.js · WebSockets · Yjs · PostgreSQL · JWT</sub>
-
-Conflict-free collaborative editing via CRDTs (Yjs), with debounced persistence to PostgreSQL. Load-tested with k6: **100% success across 50 concurrent editors**, 88.1ms p95 handshake latency.
-
-</td>
-</tr>
-</table>
-
-<div align="center"><sub>GitHub links for each project can be dropped in once you share them — happy to wire those up.</sub></div>
-
----
-
-### 🏆 Awards & Achievements
-
-| | |
-|---|---|
-| 🥇 | **AiroThon 2025 National Winner** — 1st place, 231 teams, Agentic AI Hackathon (Airolabs.ai) |
-| 🎓 | **Amazon ML Summer School 2026 Scholar** — top 2% of 134,000+ applicants nationwide |
-| 🧩 | **500+ DSA problems** solved across competitive programming platforms |
-| 🏅 | **Top 7 / 250+ teams** — CodeVerse Hackathon, organized by OsCode |
-
----
-
-### 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=himanshisonkusale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshisonkusale&theme=tokyonight&hide_border=true" width="48%"/>
-</div>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshisonkusale&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshisonkusale)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshiwork21@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshisonkusale)
+
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F953C6,50:7B2FF7,100:4776E6&height=120&section=footer" />
 
-<i>"Architect first. Code second. Ship always."</i>
+
+*"The best way to predict the future is to build it."*
 
 </div>
